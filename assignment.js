@@ -35,8 +35,6 @@ function budgetCalculator(watchCount, mobileCount, laptopCount) {
     else{
         return 'Error Input';
     }
-
-    
 }
 
 console.log(budgetCalculator(1, 1, 1));
